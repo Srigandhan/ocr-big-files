@@ -1,6 +1,9 @@
 # Test version for processing big size pdfs.
-  
 
+
+## Python 3.10 Mandatory for using adobe api.  
+  
+  
 ## Installations:
 ```
 pip install PyPDF2
